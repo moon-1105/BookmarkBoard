@@ -1,0 +1,16 @@
+data = [
+{
+web : {
+  {"name" : "구글",
+   "address" : "https://www.google.co.kr/"},
+  {"name" : "네이버",
+   "address" : "https://www.naver.com"},
+  {"name" : "다음",
+   "address" : "https://www.daum.net"}
+  }
+dev : {
+  { "name":"github", "address" : "https://github.com"},
+  { "name":"stackoverflow", "address" : "https://stackoverflow.com"}
+  }
+}
+]
